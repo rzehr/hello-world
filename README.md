@@ -1,2 +1,6 @@
 # hello-world
-1st one yaya
+
+Hi Humans!
+
+Testing out github. seeing what it's all about!
+wonder where this is going. 
